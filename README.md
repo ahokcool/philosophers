@@ -22,7 +22,7 @@
   </a>
   <h1 align="center">philosophers</h1>
 <p align="center">
-    Write a program that simulates the life of a group of philosophers to learn the basics of threading a process an mutexes.
+    program that simulates the life of a group of philosophers to learn the basics of threading a process an mutexes.
 </p>
 </div>
 <br>
